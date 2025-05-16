@@ -18,6 +18,4 @@ This is a simple and editable Gantt chart built in Excel to help track project t
 ![image](https://github.com/user-attachments/assets/08554ce5-97b3-4ad6-b763-aead5b6d98fd)
 
 
-Perfect for students, analysts, and project teams.
 
----
