@@ -17,5 +17,7 @@ This is a simple and editable Gantt chart built in Excel to help track project t
 ## Preview
 ![image](https://github.com/user-attachments/assets/08554ce5-97b3-4ad6-b763-aead5b6d98fd)
 
+## 📬 Connect With Me
 
-
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
